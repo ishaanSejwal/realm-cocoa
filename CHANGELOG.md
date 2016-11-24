@@ -17,6 +17,11 @@ x.x.x Release notes (yyyy-MM-dd)
     * `readOnly` set with a sync configuration.
     * `readOnly` set with a migration block.
     * migration block set with a sync configuration.
+  code that interoperates between Realm Objective-C and Realm Swift APIs.  
+* Add the `RLMSyncPermissionOffer` class to allow to offer permissions to others for
+  synchronized Realms.
+* Add the `RLMSyncPermissionOfferResponse` class to response permissions by a received token
+  which is genereted by `RLMSyncPermissionOffer`.
 
 ### Bugfixes
 
