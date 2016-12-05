@@ -1,3 +1,10 @@
+2.x.x Release notes (date)
+=============================================================
+
+### Enhancements
+
+* Added suport for 'LIKE' queries (wildcard matching)
+
 2.1.1 Release notes (2016-12-02)
 =============================================================
 
